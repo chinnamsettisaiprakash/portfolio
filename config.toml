@@ -1,0 +1,12 @@
+baseURL = 'https://chinnamsettisaiprakash.github.io/portfolio'
+languageCode = 'en-us'
+title = 'Sai Prakash Portfolio'
+
+[params]
+  author = "Sai Prakash Chinnamsetti"
+  description = "Data Engineer"
+  email = "chinnamsettisaiprakash@gmail.com"
+  location = "Texas, United States"
+  linkedin = "chinnamsetti-sai-prakash/"
+  lastUpdated = "2026"
+  github = "chinnamsettisaiprakash"
